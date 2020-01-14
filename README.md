@@ -4,4 +4,4 @@ El llibre està escrit en **R Markdown**, emprant **RStudio** com a editor de te
 
 Aquest treball es publica sota llicència [Atribució-No Comercial-Sense Derivadess 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-La versió d'aquests apunts es pot llegir a https://cescrossello.github.io/MatesII/
+La versió d'aquests apunts es pot llegir a https://aprender-uib.github.io/MatesII/
