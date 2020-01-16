@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579175308763.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2271454238",
+    "id" : "A9B696CB",
+    "lastKnownWriteTime" : 1579191445,
+    "last_content_update" : 1579191445641,
+    "path" : "~/Documents/GitHub/MatesIIprivat/03-Intervals.Rmd",
+    "project_path" : "03-Intervals.Rmd",
+    "properties" : {
+        "cursorPosition" : "916,66",
+        "scrollLine" : "907"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

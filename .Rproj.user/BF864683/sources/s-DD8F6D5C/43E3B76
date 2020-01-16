@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579191662883.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "43E3B76",
+    "lastKnownWriteTime" : 1579191918,
+    "last_content_update" : 1579191919016,
+    "path" : "~/Documents/GitHub/MatesIIprivat/01-Normal.Rmd",
+    "project_path" : "01-Normal.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,21",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
